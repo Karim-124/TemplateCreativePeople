@@ -25,8 +25,6 @@ To install and run this project locally, follow these steps:
 
 Once the project is running in your web browser, you will see the homepage displaying a curated collection of creative works. Users can explore different categories, view individual profiles, and interact with the content.
 
-The project is built using HTML, CSS, and JavaScript. The HTML files can be found in the `index.html` and `profile.html` files. CSS styles are defined in the `styles.css` file, while JavaScript functionality is implemented in the `script.js` file.
-
 Feel free to customize the project according to your needs. You can modify the HTML, CSS, and JavaScript files to add new features, change the design, or incorporate additional functionality.
 
 ## Contributing
